@@ -42,7 +42,9 @@ Atuar como Assistente de TI ou Técnico de Suporte N1, contribuindo para a resol
 
 ## 💻 Projetos
 
-- **Caixa Eletrônico em C:** projeto de prática de lógica de programação e desenvolvimento de algoritmos.
+- **Caixa Eletrônico em Python:** projeto de prática de lógica de programação, utilizando Python para implementar operações e funcionalidades de um caixa eletrônico.
+
+🔗 **Repositório no GitHub:** https://github.com/brgalvao81/caixa-eletronico-cstk
 
 ## 📈 Atualmente estudando
 
