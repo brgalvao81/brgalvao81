@@ -38,7 +38,7 @@ Atuar como Assistente de TI ou Técnico de Suporte N1, contribuindo para a resol
 
 ### 🌐 Cisco Networking Academy
 
-- Fundamentos de Redes
+- Conceitos Básicos de Redes
 
 ## 💻 Projetos
 
